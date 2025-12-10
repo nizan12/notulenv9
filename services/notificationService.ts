@@ -59,7 +59,7 @@ ${details.unitName ? `*Unit*: ${details.unitName}` : ''}
 Mohon kehadirannya tepat waktu.
 Terima kasih.
 
-_Notifikasi otomatis dari NotulenKu_`;
+_Notifikasi otomatis dari Rapat - Notulen_`;
 
   const formData = new FormData();
   formData.append('target', formattedPhone);

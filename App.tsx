@@ -61,7 +61,7 @@ const LoginScreen: React.FC<{ onLogin: (user: User) => void }> = ({ onLogin }) =
           <div className="w-20 h-20 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-lg shadow-blue-500/30 transform -rotate-3">
             <FileText className="text-white" size={40} />
           </div>
-          <h1 className="text-3xl font-bold text-slate-900 tracking-tight">NotulenKu</h1>
+          <h1 className="text-3xl font-bold text-slate-900 tracking-tight">Rapat - Notulen</h1>
           <p className="text-slate-500 mt-2 text-sm">Sistem Manajemen Notulen Rapat Digital</p>
         </div>
         
