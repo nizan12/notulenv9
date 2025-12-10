@@ -1,0 +1,5 @@
+{
+  "name": "NotulenKu - Digital Meeting Minutes",
+  "description": "A comprehensive meeting minute management system using Firebase, adapted from a relational schema to NoSQL.",
+  "requestFramePermissions": []
+}
